@@ -13,7 +13,7 @@ Aplicacao desktop simples para cadastro de produto e processamento de venda, com
 
 Exemplo de saida:
 
-![Tela da aplicacao exibindo a saida da venda](./assets/tela-saida.png)
+![Saída](images/saida.png)
 
 ```text
 Produto: Notebook
