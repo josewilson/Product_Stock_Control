@@ -12,8 +12,8 @@ Aplicacao desktop simples para cadastro de produto e processamento de venda, com
 - Exibicao do resultado no formato da regra de negocio
 
 Exemplo de saida:
-
-![Tela da aplicacao exibindo a saida da venda](saida.png)
+</> Markdown
+![Tela da aplicacao exibindo a saida da venda](./assets/tela-saida.png)
 
 ```text
 Produto: Notebook
